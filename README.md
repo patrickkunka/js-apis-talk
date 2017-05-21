@@ -4,21 +4,27 @@ A collection of useful resources relating to a talk delivered to Front-end Londo
 
 ## Blog Post
 
-The blog post on which the talk was based:
+**[Building Consumable JavaScript APIs](https://www.kunkalabs.com/blog/building-consumable-javascript-apis/)**
 
-[Building Consumable JavaScript APIs](https://www.kunkalabs.com/blog/building-consumable-javascript-apis/)
+The blog post on which the talk was based.
 
 ## Code Examples
 
 **[Factory Function Patterns](https://gist.github.com/patrickkunka/a65a62928f5a9e2acca6d33277d728ce)**
 
+A collection of gists demonstrating various benefits that factory functions can provide as a primary API entry point.
+
 **[Configuration Patterns](https://gist.github.com/patrickkunka/893f9d4ba8180fa19ff9994f521d0d73)**
+
+A collection of gists demonstrating how we can use configuration objects to validate consumer-provided input, and provide consumers with helpful error messages.
 
 **[Facade Patterns](https://gist.github.com/patrickkunka/2019d6fe45abf9d5c5f8e764d05539d3)**
 
+A collection of gists demonstrating how we can use facades to export lean, useable public APIs, without sacrificing established OOP coding patterns within our implementations.
+
 ## Real World Example
 
-[Datepicker](https://github.com/patrickkunka/datepicker)
+**[Datepicker](https://github.com/patrickkunka/datepicker)**
 
 A fully-functional datepicker UI widget utilising factories, configuration, and facades.
 
