@@ -6,7 +6,7 @@ A collection of useful resources relating to a talk delivered to Front-end Londo
 
 ## Blog Post
 
-**[Building Consumable JavaScript APIs](https://www.kunkalabs.com/blog/building-consumable-javascript-apis/)**
+***[Building Consumable JavaScript APIs](https://www.kunkalabs.com/blog/building-consumable-javascript-apis/)***
 
 The blog post on which the talk was based.
 
