@@ -22,7 +22,7 @@ A collection of gists demonstrating how we can use configuration objects to vali
 
 **[Facade Patterns](https://gist.github.com/patrickkunka/2019d6fe45abf9d5c5f8e764d05539d3)**
 
-A collection of gists demonstrating how we can use facades to export lean, useable public APIs, without sacrificing established OOP coding patterns within our implementations.
+A collection of gists demonstrating how we can use facades to export lean public APIs, without sacrificing established OOP coding patterns within our implementations.
 
 ## Real World Example
 
