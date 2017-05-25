@@ -1,6 +1,6 @@
 # Building Consumable JavaScript APIs
 
-A collection of useful resources relating to a talk delivered to Front-end London on 25th May 2017.
+A collection of useful resources relating to a talk I gave at [Front-end London](frontendlondon.co.uk) on 25th May 2017.
 
 **[Slide Deck](http://slides.com/patrickkunka/building-consumable-javascript-apis#/)**
 
