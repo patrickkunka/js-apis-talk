@@ -2,8 +2,6 @@
 
 A collection of useful resources relating to a talk I gave at [Front-end London](frontendlondon.co.uk) on 25th May 2017.
 
-**[Slide Deck](http://slides.com/patrickkunka/building-consumable-javascript-apis#/)**
-
 ## Blog Post
 
 **[Building Consumable JavaScript APIs](https://www.kunkalabs.com/blog/building-consumable-javascript-apis/)**
