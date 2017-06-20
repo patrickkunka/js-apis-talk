@@ -2,6 +2,12 @@
 
 A collection of useful resources relating to a talk I gave at [Front-end London](frontendlondon.co.uk) on 25th May 2017.
 
+## The Talk
+
+**[Building Consumable JavaScript APIs @ Pusher Sessions](https://pusher.com/sessions/meetup/front-end-london/building-consumable-javascript-apis)**
+
+Thanks to Pusher for filming the talk and putting it up on Pusher Sessions.
+
 ## Blog Post
 
 **[Building Consumable JavaScript APIs](https://www.kunkalabs.com/blog/building-consumable-javascript-apis/)**
