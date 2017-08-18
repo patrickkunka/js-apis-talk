@@ -42,6 +42,7 @@ A fully-functional datepicker UI widget utilising factories, configuration, and 
 - [Classes](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
 - [Getters](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/get)
 - [Setters](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/set)
+- [Private Members in JavaScript (*Crockford 2001*)](http://javascript.crockford.com/private.html)
 
 ---
 &copy; 2017 Patrick Kunka
